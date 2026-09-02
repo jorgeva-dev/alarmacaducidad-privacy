@@ -1,3 +1,8 @@
+[🇬🇧 English](#english) | [🇪🇸 Español](#español)
+
+---
+
+<a id="english"></a>
 # Privacy Policy — Expy
 *Last updated: Sept 2, 2026*
 
@@ -84,6 +89,7 @@ Any questions about this policy: jorgeva.dev@gmail.com
 
 ---
 
+<a id="español"></a>
 # Política de Privacidad — Expy
 *Última actualización: 2-Sept-2026*
 
