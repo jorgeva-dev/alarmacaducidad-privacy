@@ -4,7 +4,7 @@
 
 <a id="english"></a>
 # Privacy Policy — Expy
-*Last updated: Sept 2, 2026*
+*Last updated: Sept 12, 2026*
 
 ## In short
 Expy does not collect your data. There are no accounts, no sign-up and no servers of ours. Everything you keep in the app — your items, their dates and your photos — stays on your phone.
@@ -53,6 +53,11 @@ This processing happens entirely on your phone. Camera images are not sent to an
 **Google Play**
 The app is distributed through Google Play, which applies its own privacy policy: https://policies.google.com/privacy
 
+## Dictating a date
+If you tap the microphone to say the date out loud, Expy uses your phone's speech recogniser. The app does not record or receive the audio: it only receives the transcribed text.
+
+Expy asks for recognition to happen on the phone whenever the system allows it. If your phone only offers Google's online recogniser, the audio is processed by Google under its own privacy policy. If you don't want that, don't use the microphone: you can type the date or read it with the camera.
+
 ## The camera
 Expy asks for camera permission only to scan barcodes and read expiry dates printed on packaging.
 * The camera is active only while the scanning screen is open.
@@ -64,11 +69,9 @@ Expy asks for notification permission for one purpose only: to warn you about it
 We send no promotional notifications, no news, nothing else. You can turn them off at any time in the app's settings or your system settings.
 
 ## If you contact us voluntarily
-The app includes buttons to send us suggestions or report a problem. If you use them, your email app opens with a message already prepared, including the app version, your phone model and its Android version. When reporting a misread date, the cropped photo of that date is attached too.
+The app includes buttons to send us suggestions or report a problem. If you use them, your email app opens with a message already prepared, including the app version, your phone model and its Android version. When reporting a misread or undetected date, the cropped photo of that date is attached too, along with the text the app read from that image and a short record of the session's recent errors (barcodes it could not look up, failed readings). That record lives only in the phone's memory, is discarded when you close the app, and never leaves it on its own.
 
 You see all the content before sending, and nothing is sent unless you tap send yourself. You can delete anything or not send it at all.
-
-We use those messages only to fix bugs and improve the app. We do not share them with anyone. If you want a message you sent us deleted, ask us at jorgeva.dev@gmail.com.
 
 We use those messages only to fix bugs and improve the app. We do not share them with anyone or use them for anything else.
 If you want a message you sent us deleted, write to jorgeva.dev@gmail.com and we will delete it.
@@ -93,7 +96,7 @@ Any questions about this policy: jorgeva.dev@gmail.com
 
 <a id="español"></a>
 # Política de Privacidad — Expy
-*Última actualización: 2-Sept-2026*
+*Última actualización: 12-Sept-2026*
 
 ## En resumen
 Expy no recoge tus datos. No hay cuentas, no hay registro y no tenemos servidores. Todo lo que guardas en la aplicación —tus productos, sus fechas y tus fotos— se queda en tu teléfono.
@@ -142,6 +145,11 @@ Este procesamiento ocurre por completo dentro de tu teléfono. Las imágenes de 
 **Google Play**
 La aplicación se distribuye a través de Google Play, que aplica su propia política de privacidad: https://policies.google.com/privacy
 
+## Dictar una fecha
+Si pulsas el micrófono para decir la fecha en voz alta, Expy usa el reconocedor de voz de tu teléfono. La aplicación no graba ni recibe el audio: solo recibe el texto ya transcrito.
+
+Expy pide que el reconocimiento se haga dentro del teléfono siempre que el sistema lo permita. Si tu móvil solo dispone del reconocedor en línea de Google, el audio lo procesa Google según su propia política de privacidad. Si no quieres que eso ocurra, no uses el micrófono: puedes escribir la fecha o leerla con la cámara.
+
 ## La cámara
 Expy pide permiso de cámara solo para escanear códigos de barras y leer las fechas de caducidad de los envases.
 * La cámara se activa únicamente mientras tienes abierta la pantalla de escaneo.
@@ -153,11 +161,9 @@ Expy pide permiso para enviarte notificaciones con un único fin: avisarte de lo
 No enviamos notificaciones promocionales, ni de novedades, ni de ningún otro tipo. Puedes desactivarlas cuando quieras desde los ajustes de la aplicación o del sistema.
 
 ## Si nos escribes voluntariamente
-La aplicación incluye botones para enviarnos sugerencias o informar de un fallo. Si decides usarlos, se abre tu aplicación de correo con un mensaje ya preparado que incluye la versión de la app, el modelo de tu teléfono y su versión de Android. Cuando informas de una fecha mal leída, se adjunta también la foto recortada de esa fecha.
+La aplicación incluye botones para enviarnos sugerencias o informar de un fallo. Si decides usarlos, se abre tu aplicación de correo con un mensaje ya preparado que incluye la versión de la app, el modelo de tu teléfono y su versión de Android. Cuando informas de una fecha mal leída o de una que no se detectó, se adjunta también la foto recortada de esa fecha, junto con el texto que la aplicación leyó de esa imagen y un pequeño registro de los últimos errores de la sesión (códigos de barras que no se pudieron consultar y lecturas fallidas). Ese registro vive solo en la memoria del teléfono, se borra al cerrar la aplicación y nunca sale de él por su cuenta.
 
 Verás todo el contenido antes de enviarlo y nada se envía sin que pulses tú el botón de enviar. Puedes borrar lo que quieras o no enviarlo.
-
-Usamos esos mensajes únicamente para corregir fallos y mejorar la aplicación. No los compartimos con nadie. Si quieres que borremos un mensaje que nos enviaste, pídenoslo a jorgeva.dev@gmail.com.
 
 Usamos esos mensajes únicamente para corregir fallos y mejorar la aplicación. No los compartimos con nadie ni los usamos para ninguna otra cosa.
 Si quieres que borremos un mensaje que nos enviaste, escríbenos a jorgeva.dev@gmail.com y lo eliminamos.
